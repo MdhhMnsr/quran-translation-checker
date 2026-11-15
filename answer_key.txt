@@ -1,0 +1,10 @@
+89:1 |shift  
+89:2 |shift
+89:3 |shift
+100:6 |swap
+100:7 |swap
+95:6 | Cut a long verse’s Malay in half
+94:5 | swap meaning kesukaran and kemudahan 
+102:2 | added number (5)
+102:8 | added "dan azab"
+101:11 | meaning opposite changed panas mendidih to sejuk menggigil. 

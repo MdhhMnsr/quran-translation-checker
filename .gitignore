@@ -1,0 +1,10 @@
+# Verse text: not mine to publish, and test copies habe planted errors
+test_data/
+data/
+report*.txt 
+run*.txt
+checker Al-Fatihah.txt
+
+# Python and secrets 
+__pycache__/
+.env 
